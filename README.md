@@ -1,6 +1,8 @@
 # Welcome to Eric's personal page
 This page features a selection of my personal projects.
 
+Please contact me at eric@lipeitao.com if you have any questions regarding my work!
+
 ## Research projects
 
 ### Master of Public Policy Thesis: [Firm Heterogeneity and Participation in Trade Policy](https://repository.library.georgetown.edu/handle/10822/1043955)
