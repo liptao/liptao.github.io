@@ -10,7 +10,7 @@ Please contact me at <eric@lipeitao.com> if you have any questions regarding my 
 This is my thesis I wrote for my MPP degree. The goal of the research was to analyze which firms will tend to petition the government for trade protection and actively participate in international trade policy-making.
 
 
-I used participation in antidumping petitions as a measure of a firm interest in trade protection.  Using penalized logistic regression, I found  that European firms that lodged antidumping petitions tended to be larger, have lower productivity levels, and have lower productivity growth than peers in the same industry.
+I used participation in antidumping petitions as a measure of a firm interest in trade protection.  Using penalized maximum likelihood logistic regression, I found  that European firms that lodged antidumping petitions tended to be larger, have lower productivity levels, and have lower productivity growth than peers in the same industry.
 
 
 ## Python projects
