@@ -12,7 +12,7 @@ This is my thesis I wrote for my MPP degree. The goal of the research was to ana
 
 I used participation in antidumping petitions as a measure of a firm interest in trade protection.  Using penalized maximum likelihood logistic regression, I found  that European firms that lodged antidumping petitions tended to be larger, have lower productivity levels, and have lower productivity growth than peers in the same industry.
 
-### [Using k-means clustering to analyze terrorist attacks in R](https://github.com/liptao/global-terrorism)
+### [Investigating Attack Types in Global Terrorist Events](https://github.com/liptao/global-terrorism)
 
 In this project, we used R to analyze clustering in terrorist attack types using data from Global Terrorism Database. We also created geospatial visualizations using carto.
 
