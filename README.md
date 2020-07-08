@@ -9,8 +9,10 @@ Please contact me at <eric@lipeitao.com> if you have any questions regarding my 
 
 This is my thesis I wrote for my MPP degree. The goal of the research was to analyze which firms will tend to petition the government for trade protection and actively participate in international trade policy-making.
 
-
 I used participation in antidumping petitions as a measure of a firm interest in trade protection.  Using penalized maximum likelihood logistic regression, I found  that European firms that lodged antidumping petitions tended to be larger, have lower productivity levels, and have lower productivity growth than peers in the same industry.
+
+### [A/B Testing Project](https://github.com/liptao/A-B-Testing-Project): Does reducing the number of fields customers enter during the checkout flow improve conversions? ([nbviewer](https://nbviewer.jupyter.org/github/liptao/A-B-Testing-Project/blob/master/AB%20Test%20Notebook.ipynb))
+This iPython notebook explores an A/B test of a feature aimed to improve conversions within a checkout funnel. The analysis covers data cleaning and EDA, power analysis, minimum sample size assessment, and hypothesis testing.
 
 ### [Investigating Attack Types in Global Terrorist Events](https://github.com/liptao/global-terrorism)
 
