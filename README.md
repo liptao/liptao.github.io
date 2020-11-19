@@ -1,7 +1,7 @@
-# Welcome to Eric's personal page
+# Welcome to my personal page
 This page features a selection of my personal projects.
 
-Please contact me at <eric@lipeitao.com> if you have any questions regarding my work!
+Please contact me at <me@lipeitao.com> if you have any questions regarding my work!
 
 ## Personal projects
 
